@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidSpecificsApp</string>
+    <string name="button_text">Benachrichtigung erzeugen</string>
+    <string name="channel_name">Standardbenachrichtigungen</string>
+    <string name="default_notification_description">Dieser Kanal ist für Standardbenachrichtigungen</string>
+    <string name="notification_title">MoCo Test Benachrichtigung</string>
+    <string name="notification_text">Hier stehen wichtige Dinge, die unbedingt gelesen werden müssen.</string>
+    <string name="button_text_2">Benachrichtigung mit Aktion erstellen</string>
+    <string name="button_text_3">Benachrichtigung mit Aktionsknöpfen erstellen</string>
+    <string name="button_text_4">Vollbildbenachrichtigung erstellen</string>
+    <string name="button_request_permission">Berechtigung anfordern</string>
+    <string name="notification_permanently_declined">Es scheint, dass Sie die Berechtigung zur Benachrichtigung dauerhaft abgelehnt haben. Sie können in den Einstellungen der App die Berechtigung erteilen.</string>
+    <string name="notification_permission_description">Diese App muss Benachrichtigungen senden</string>
+    <string name="grant_permission">Berechtigung erteilen</string>
+    <string name="ok">OK</string>
+    <string name="permission_required">Berchtigung wird benötigt</string>
+    <string name="exact_alarms_permanently_declined">Bitte aktivieren Sie die Berechtigung für Wecker in den Einstellungen</string>
+    <string name="end_alarm">Alarm Beenden</string>
+    <string name="expand">Erweitern</string>
+    <string name="button_text_5">Benachrichtigung mit Fortschrittsbalken erstellen</string>
+    <string name="alarm_notification_channel_name">Alarme</string>
+    <string name="open_moxd">MOXD öffnen</string>
+    <string name="open_app">App öffnen</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidSpecificsApp</string>
+    <string name="button_text">Create notification</string>
+    <string name="channel_name">Default Notifications</string>
+    <string name="default_notification_description">This channel is for default notifications</string>
+    <string name="notification_title">MoCo Test Notification</string>
+    <string name="notification_text">Here are important things that must be read.</string>
+    <string name="button_text_2">Create notification with action</string>
+    <string name="button_text_3">Create notification with action buttons</string>
+    <string name="button_text_4">Create fullscreen notification</string>
+    <string name="button_request_permission">Request Permissions</string>
+    <string name="notification_permanently_declined">It seems you permanently declined notification permission. You can go to the app settings to grant it.</string>
+    <string name="notification_permission_description">This app needs to post notifications</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="ok">OK</string>
+    <string name="permission_required">Permission required</string>
+    <string name="exact_alarms_permanently_declined">Please activate the authorization for alarm clocks in the settings</string>
+    <string name="end_alarm">Stop Alarm</string>
+    <string name="expand">Expand</string>
+    <string name="button_text_5">Create notification with progress bar</string>
+    <string name="alarm_notification_channel_name">Alarms</string>
+    <string name="open_moxd">Open MOXD</string>
+    <string name="open_app">Open App</string>
+</resources>
